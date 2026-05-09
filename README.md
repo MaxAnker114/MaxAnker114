@@ -62,14 +62,22 @@ Current bias:
   4. Leave logs, metrics, and docs that future-me can trust.
 ```
 
-## ./github-stats
+## ./workspace-map
 
-<div align="center">
+```txt
+repo                                      domain                primary language
+diffusion-prior-based-footwear-3D...      3D reconstruction     Python / TeX
+AI_hotNews_monitor                        AI application        TypeScript
+2024USTC-jianmu-compiler                  compiler systems      C++
+VGA-GAME                                  digital design        Verilog
+USTC-ML24-Fall                            machine learning      Python
+```
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MaxAnker114&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxAnker114&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+## ./signal
 
-</div>
+- I prefer **measurable demos** over vague claims: runtime, VRAM, mesh statistics, tests, and acceptance notes.
+- I like projects that force trade-offs: 8GB VRAM, local reproducibility, compiler correctness, and AI output validation.
+- I keep READMEs and docs close to the code, because future debugging starts with what past-me wrote down.
 
 ---
 
